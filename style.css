@@ -6,6 +6,7 @@ html,body{
 	padding: 0;
 	height: 100%;
 	width: 100%;
+	background: url(dubai.jpg) no-repeat 50% 50%;
 }
 
 .intro{
